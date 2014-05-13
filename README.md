@@ -1,5 +1,3 @@
 # Rainforest Bounties
 
-As part of our interview process (and generally) we ask people to fix things in projects we use.
-
-See [issues](https://github.com/rainforestapp/bounties/issues) for a list of what's outstanding
+As part of our interview process (and generally) we ask people to fix things in projects we use. See our [Bountysource page](https://www.bountysource.com/teams/rainforest/bounties) for a list of what's outstanding
